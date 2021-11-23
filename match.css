@@ -1,0 +1,57 @@
+html,
+body {
+  box-sizing: border-box;
+  background: blueviolet;
+  font-size: 62.5%;
+}
+
+.box1 {
+  max-width: 10rem;
+  background: blue;
+  margin: auto;
+  height: 10rem;
+  max-width: 25rem;
+  color: white;
+  border: solid red 1px;
+  border-bottom: none;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+}
+.fesko {
+  font-size: 2.5rem;
+  display: inline;
+
+  text-align: center;
+  background: white;
+  color: blue;
+  background-size: 10rem;
+  padding: 0.5rem;
+  border-radius: 3rem;
+  border: dotted red;
+}
+.box2 {
+  background: rgb(255, 255, 255);
+  height: 3rem;
+  max-width: 25rem;
+  margin: auto;
+  border: red 1px solid;
+  border-top: none;
+  text-align: center;
+}
+
+.footer {
+  margin: 0rem;
+  padding: 0.2rem;
+  font-size: 2rem;
+}
+img {
+  position: absolute;
+  float: right;
+  transform: translateX(9.5rem);
+  height: 2rem;
+  width: 2rem;
+}
